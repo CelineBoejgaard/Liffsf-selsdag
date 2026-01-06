@@ -2,10 +2,12 @@
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
+  max-width: 70%;
 }
 
 .grid_1-7 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   padding-top: 1300px;
+  max-width: 100%;
 }
