@@ -1,0 +1,11 @@
+.birthdayimg {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.grid_1-7 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  padding-top: 1300px;
+}
